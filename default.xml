@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+
+<manifest>
+
+<remote name="lsd"
+           fetch="http://github.com/LiquidSmooth-devices/" />
+
+
+  <project name="android_device_samsung_d2lte" path="device/samsung/d2lte" remote="lsd" revision="kitkat" />
+  <project name="android_device_samsung_msm8960-common" path="device/samsung/msm8960-common" remote="lsd" revision="kitkat" />
+  <project name="android_device_samsung_i605" path="device/samsung/i605" remote="lsd" revision="kitkat" />
+  <project name="android_device_samsung_t0lte" path="device/samsung/t0lte" remote="lsd" revision="kitkat" />
+  <project name="android_device_samsung_l900" path="device/samsung/l900" remote="lsd" revision="kitkat" />
+  <project name="android_device_samsung_n7100" path="device/samsung/n7100" remote="lsd" revision="kitkat" />
+
+</manifest>
